@@ -13,6 +13,11 @@ public class BookLibraryController {
 		return "hello world";
 	}
 	
+	@RequestMapping(params = {"bookId"}, method = RequestMethod.GET, produces = "application/json")
+	public String geSpecifictBook(String bookId) {
+		return "hello world " + bookId;
+	}
+	
 	@RequestMapping(value = "/ping", method = RequestMethod.GET, produces = "application/json")
 	public String ping() {
 		return "ping-ping";
