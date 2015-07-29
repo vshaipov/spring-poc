@@ -1,4 +1,4 @@
-package com.poc.config;
+package com.poc.config.aop;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
