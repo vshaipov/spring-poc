@@ -14,17 +14,29 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     public void configureGlobal(AuthenticationManagerBuilder auth)
 	    throws Exception {
-	auth.inMemoryAuthentication().withUser("user").password("password")
-		.roles("USER");
+	auth.inMemoryAuthentication()//
+		.withUser("user").password("password").roles("USER")//
+		.and()//
+		.withUser("admin").password("admin").roles("USER", "ADMIN");
     }
 
     protected void configure(HttpSecurity http) throws Exception {
-	http
-		.authorizeRequests()
-			.anyRequest().authenticated()
-			.and()
+	// @formatter:off
+	http.authorizeRequests()
+		.antMatchers("/lib/books")
+		.access("hasRole('USER') or hasRole('ADMIN')")
+		
+		.antMatchers("/lib?booksID=**")
+		.access("hasRole('USER') or hasRole('ADMIN')")
+		
+		.antMatchers("/lib/ping")
+		.access("hasRole('ADMIN')")
+		
+		.anyRequest().authenticated()
+		.and()
 		.formLogin()
-			.and()
+		.and()
 		.httpBasic();
+	// @formatter:on
     }
 }
