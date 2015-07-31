@@ -8,6 +8,5 @@
 	   
 	<modules>
 		<module>spring-poc-app</module>
-		<module>spring-poc-integraion-tests</module>
 	</modules>
 </project>

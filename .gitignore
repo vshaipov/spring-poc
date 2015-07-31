@@ -3,4 +3,6 @@
 .classpath
 .settings
 .ptoject
+.metadata
 spring-poc-app/.project
+RemoteSystemsTempFiles/.project
