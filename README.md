@@ -5,4 +5,5 @@ this project also contains an integration tests (spring-poc-integration-tests) m
 1. RESTful servicers<br>
 2. Spring AOP<br>
 3. Spring security. All the exposed REST methods require a basic authentication. See its integration tests in spring-poc-integration-tests module  for different access cases, supporting several users and appropriate acess roles<br>
+4. Spring MongoDB integration
    
