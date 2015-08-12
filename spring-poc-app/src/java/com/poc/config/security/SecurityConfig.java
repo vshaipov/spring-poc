@@ -22,7 +22,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     protected void configure(HttpSecurity http) throws Exception {
 	// @formatter:off
-	http.authorizeRequests()
+	http.
+		csrf().disable().
+		authorizeRequests()
 		.antMatchers("/lib/books")
 		.access("hasRole('USER') or hasRole('ADMIN')")
 		
@@ -37,6 +39,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		.formLogin()
 		.and()
 		.httpBasic();
+	
 	// @formatter:on
     }
 }
