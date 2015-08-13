@@ -29,11 +29,11 @@ public class UserController {
     @RequestMapping(method = RequestMethod.GET)
     public ResponseEntity<String> getUser(@RequestParam String userName)
 	    throws JsonProcessingException {
-	User user = userDao.getUser(userName);
+	List<User> users = userDao.getUser(userName);
 
-	if (user != null) {
+	if (users != null) {
 	    return new ResponseEntity<String>(objectMapper
-		    .writerWithDefaultPrettyPrinter().writeValueAsString(user),
+		    .writerWithDefaultPrettyPrinter().writeValueAsString(users),
 		    HttpStatus.OK);
 	}
 	return new ResponseEntity<String>("user not found", HttpStatus.OK);
@@ -41,10 +41,12 @@ public class UserController {
 
     @RequestMapping(value = "/users", method = RequestMethod.GET)
     public ResponseEntity<String> getAllUsers() throws JsonProcessingException {
+	StringBuffer buffer = new StringBuffer();
+	for (User user : userDao.getAllUsers()) {
+	    buffer.append(objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(user));
+	}
 	
-	userDao.getAllUsers().forEach((u) -> System.out.println(u.getUser()));
-	
-	return new ResponseEntity<String>(HttpStatus.OK);
+	return new ResponseEntity<String>(buffer.toString(), HttpStatus.OK);
     }
 
     @RequestMapping(value = "/set", method = RequestMethod.POST)

@@ -17,27 +17,16 @@ public class UserDao {
     MongoTemplate mongoTemplate;
 
     public List<User> getAllUsers() {
-	return mongoTemplate.findAll(User.class);
+	return mongoTemplate.findAll(User.class, "names");
     }
 
-    public User getUser(String user) {
-	return mongoTemplate.findOne(
-		new Query(Criteria.where("user").is(user)), User.class);
+    public List<User> getUser(String user) {
+	return mongoTemplate.find(new Query(Criteria.where("user").is(user)),
+		User.class, "names");
     }
 
     public void insertUser(User user) {
 	mongoTemplate.save(user, "names");
     }
 
-    // @Autowired
-    // MongoOperations mongo;
-    //
-    // public User getUser(String user) {
-    // return mongo.findOne(new Query(Criteria.where("user").is(user)),
-    // User.class);
-    // }
-    //
-    // public void insertUser(User user) {
-    // mongo.save(user, "names");
-    // }
 }
