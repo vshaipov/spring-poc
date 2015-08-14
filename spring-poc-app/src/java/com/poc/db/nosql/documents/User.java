@@ -18,6 +18,10 @@ public class User {
 	this.role = role;
 	this.password = password;
     }
+    
+    @PersistenceConstructor
+    public User() {
+    }
 
     public String getId() {
 	return id;
