@@ -1,8 +1,6 @@
 package com.poc.config.db;
 
-import java.io.File;
 import java.io.IOException;
-import java.util.LinkedHashMap;
 import java.util.List;
 
 import org.apache.commons.io.IOUtils;
@@ -19,8 +17,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
 import com.mongodb.BasicDBObject;
 import com.mongodb.Mongo;
+import com.poc.db.nosql.documents.Grade;
 import com.poc.db.nosql.documents.User;
-import com.sun.org.apache.bcel.internal.generic.NEW;
 
 @Configuration
 @EnableMongoRepositories(basePackages = "com.poc.db")
@@ -32,6 +30,12 @@ public class MongoConfig extends AbstractMongoConfiguration {
     @Override
     protected String getDatabaseName() {
 	return "test";
+    }
+
+    @Override
+    @Bean
+    public Mongo mongo() throws Exception {
+	return new Mongo("localhost");
     }
 
     @Bean
@@ -54,25 +58,34 @@ public class MongoConfig extends AbstractMongoConfiguration {
 
     private void initDb(MongoTemplate mongoTemplate) throws JsonParseException,
 	    JsonMappingException, IOException {
-	ClassLoader classLoader = getClass().getClassLoader();
-
-	List<User> list = objectMapper
-		.readValue(
-			IOUtils.toString(classLoader
-				.getResourceAsStream("users.json")),
-			TypeFactory.defaultInstance().constructCollectionType(
-				List.class, User.class));
-
-	for (User user : list) {
-	    mongoTemplate.save(new User(user.getUser(), user.getRole(), user.getPassword()), "names");
-	}
-
+	obtainUsers(mongoTemplate);
+	obtainGrades(mongoTemplate);
     }
 
-    @Override
-    @Bean
-    public Mongo mongo() throws Exception {
-	return new Mongo("localhost");
+    private void obtainUsers(MongoTemplate mongoTemplate) throws IOException,
+	    JsonParseException, JsonMappingException {
+	List<User> list = objectMapper.readValue(
+		IOUtils.toString(getClass().getClassLoader()
+			.getResourceAsStream("db/users.json")),
+		TypeFactory.defaultInstance().constructCollectionType(
+			List.class, User.class));
+
+	list.forEach((user) -> mongoTemplate.save(
+		new User(user.getUser(), user.getRole(), user.getPassword()),
+		"names"));
+    }
+
+    private void obtainGrades(MongoTemplate mongoTemplate) throws IOException,
+	    JsonParseException, JsonMappingException {
+	List<Grade> list = objectMapper.readValue(
+		IOUtils.toString(getClass().getClassLoader()
+			.getResourceAsStream("db/grades.json")),
+		TypeFactory.defaultInstance().constructCollectionType(
+			List.class, Grade.class));
+
+	list.forEach((grade) -> mongoTemplate.save(
+		new Grade(grade.getStudent_id(), grade.getType(), grade
+			.getScore()), "grades"));
     }
 
 }

@@ -1,10 +1,11 @@
 package com.poc.db.nosql.dao;
 
+import static org.springframework.data.mongodb.core.query.Criteria.where;
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
-import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Service;
 
@@ -21,7 +22,7 @@ public class UserDao {
     }
 
     public List<User> getUser(String user) {
-	return mongoTemplate.find(new Query(Criteria.where("user").is(user)),
+	return mongoTemplate.find(new Query(where("user").is(user)),
 		User.class, "names");
     }
 

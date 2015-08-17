@@ -1,0 +1,4002 @@
+[
+    {
+        "student_id": 0,
+        "type": "exam",
+        "score": 54.6535436362647
+    },
+    {
+        "student_id": 0,
+        "type": "quiz",
+        "score": 31.95004496742112
+    },
+    {
+        "student_id": 0,
+        "type": "homework",
+        "score": 14.8504576811645
+    },
+    {
+        "student_id": 0,
+        "type": "homework",
+        "score": 63.98402553675503
+    },
+    {
+        "student_id": 1,
+        "type": "exam",
+        "score": 74.20010837299897
+    },
+    {
+        "student_id": 1,
+        "type": "quiz",
+        "score": 96.76851542258362
+    },
+    {
+        "student_id": 1,
+        "type": "homework",
+        "score": 21.33260810416115
+    },
+    {
+        "student_id": 1,
+        "type": "homework",
+        "score": 44.31667452616328
+    },
+    {
+        "student_id": 2,
+        "type": "exam",
+        "score": 19.88180838833524
+    },
+    {
+        "student_id": 2,
+        "type": "quiz",
+        "score": 1.528220212203968
+    },
+    {
+        "student_id": 2,
+        "type": "homework",
+        "score": 60.9750047106029
+    },
+    {
+        "student_id": 2,
+        "type": "homework",
+        "score": 97.75889721343528
+    },
+    {
+        "student_id": 3,
+        "type": "exam",
+        "score": 92.6244233936537
+    },
+    {
+        "student_id": 3,
+        "type": "quiz",
+        "score": 82.59760859306996
+    },
+    {
+        "student_id": 3,
+        "type": "homework",
+        "score": 50.81577033538815
+    },
+    {
+        "student_id": 3,
+        "type": "homework",
+        "score": 92.71871597581605
+    },
+    {
+        "student_id": 4,
+        "type": "exam",
+        "score": 87.89071881934647
+    },
+    {
+        "student_id": 4,
+        "type": "quiz",
+        "score": 27.29006335059361
+    },
+    {
+        "student_id": 4,
+        "type": "homework",
+        "score": 5.244452510818443
+    },
+    {
+        "student_id": 4,
+        "type": "homework",
+        "score": 28.656451042441
+    },
+    {
+        "student_id": 5,
+        "type": "exam",
+        "score": 49.41260067227861
+    },
+    {
+        "student_id": 5,
+        "type": "quiz",
+        "score": 24.88157329048566
+    },
+    {
+        "student_id": 5,
+        "type": "homework",
+        "score": 23.29430953857654
+    },
+    {
+        "student_id": 5,
+        "type": "homework",
+        "score": 41.21853026961924
+    },
+    {
+        "student_id": 6,
+        "type": "exam",
+        "score": 97.56302189646776
+    },
+    {
+        "student_id": 6,
+        "type": "quiz",
+        "score": 28.69388067325539
+    },
+    {
+        "student_id": 6,
+        "type": "homework",
+        "score": 81.23822046161325
+    },
+    {
+        "student_id": 6,
+        "type": "homework",
+        "score": 89.72700715074382
+    },
+    {
+        "student_id": 7,
+        "type": "exam",
+        "score": 24.94567271590522
+    },
+    {
+        "student_id": 7,
+        "type": "quiz",
+        "score": 3.071378307459649
+    },
+    {
+        "student_id": 7,
+        "type": "homework",
+        "score": 85.56691619291915
+    },
+    {
+        "student_id": 7,
+        "type": "homework",
+        "score": 63.35102050393443
+    },
+    {
+        "student_id": 8,
+        "type": "exam",
+        "score": 76.78123286903039
+    },
+    {
+        "student_id": 8,
+        "type": "quiz",
+        "score": 54.07993751283986
+    },
+    {
+        "student_id": 8,
+        "type": "homework",
+        "score": 66.42784200049636
+    },
+    {
+        "student_id": 8,
+        "type": "homework",
+        "score": 67.29005808579812
+    },
+    {
+        "student_id": 9,
+        "type": "exam",
+        "score": 58.66789709375767
+    },
+    {
+        "student_id": 9,
+        "type": "quiz",
+        "score": 67.75606311373502
+    },
+    {
+        "student_id": 9,
+        "type": "homework",
+        "score": 16.60130789148128
+    },
+    {
+        "student_id": 9,
+        "type": "homework",
+        "score": 75.29561445722392
+    },
+    {
+        "student_id": 10,
+        "type": "exam",
+        "score": 39.29353392707993
+    },
+    {
+        "student_id": 10,
+        "type": "quiz",
+        "score": 4.73361119523118
+    },
+    {
+        "student_id": 10,
+        "type": "homework",
+        "score": 6.094174990746648
+    },
+    {
+        "student_id": 10,
+        "type": "homework",
+        "score": 59.8608006208505
+    },
+    {
+        "student_id": 11,
+        "type": "exam",
+        "score": 40.67958752004213
+    },
+    {
+        "student_id": 11,
+        "type": "quiz",
+        "score": 25.07755580237715
+    },
+    {
+        "student_id": 11,
+        "type": "homework",
+        "score": 27.42742674795513
+    },
+    {
+        "student_id": 11,
+        "type": "homework",
+        "score": 36.40445626804575
+    },
+    {
+        "student_id": 12,
+        "type": "exam",
+        "score": 33.53240540641648
+    },
+    {
+        "student_id": 12,
+        "type": "quiz",
+        "score": 42.1515791239878
+    },
+    {
+        "student_id": 12,
+        "type": "homework",
+        "score": 51.69676516705788
+    },
+    {
+        "student_id": 12,
+        "type": "homework",
+        "score": 82.77970287970591
+    },
+    {
+        "student_id": 13,
+        "type": "exam",
+        "score": 80.28230979707159
+    },
+    {
+        "student_id": 13,
+        "type": "quiz",
+        "score": 29.34832686614311
+    },
+    {
+        "student_id": 13,
+        "type": "homework",
+        "score": 0.4838914493376478
+    },
+    {
+        "student_id": 13,
+        "type": "homework",
+        "score": 20.43324935507571
+    },
+    {
+        "student_id": 14,
+        "type": "exam",
+        "score": 93.38696333100664
+    },
+    {
+        "student_id": 14,
+        "type": "quiz",
+        "score": 28.51098909885332
+    },
+    {
+        "student_id": 14,
+        "type": "homework",
+        "score": 63.69676709320795
+    },
+    {
+        "student_id": 14,
+        "type": "homework",
+        "score": 68.54514775914414
+    },
+    {
+        "student_id": 15,
+        "type": "exam",
+        "score": 1.47782917177508
+    },
+    {
+        "student_id": 15,
+        "type": "quiz",
+        "score": 33.87245622400884
+    },
+    {
+        "student_id": 15,
+        "type": "homework",
+        "score": 18.41724574382455
+    },
+    {
+        "student_id": 15,
+        "type": "homework",
+        "score": 7.475648374118382
+    },
+    {
+        "student_id": 16,
+        "type": "exam",
+        "score": 40.92812784954744
+    },
+    {
+        "student_id": 16,
+        "type": "quiz",
+        "score": 50.34242323656437
+    },
+    {
+        "student_id": 16,
+        "type": "homework",
+        "score": 28.83314472509642
+    },
+    {
+        "student_id": 16,
+        "type": "homework",
+        "score": 12.8489522283682
+    },
+    {
+        "student_id": 17,
+        "type": "exam",
+        "score": 15.41965352054079
+    },
+    {
+        "student_id": 17,
+        "type": "quiz",
+        "score": 49.96929616916231
+    },
+    {
+        "student_id": 17,
+        "type": "homework",
+        "score": 32.33461505658801
+    },
+    {
+        "student_id": 17,
+        "type": "homework",
+        "score": 46.60035010086104
+    },
+    {
+        "student_id": 18,
+        "type": "exam",
+        "score": 91.08706438561104
+    },
+    {
+        "student_id": 18,
+        "type": "quiz",
+        "score": 75.40503201244346
+    },
+    {
+        "student_id": 18,
+        "type": "homework",
+        "score": 41.85145793009654
+    },
+    {
+        "student_id": 18,
+        "type": "homework",
+        "score": 16.31570053358192
+    },
+    {
+        "student_id": 19,
+        "type": "exam",
+        "score": 19.81798820096837
+    },
+    {
+        "student_id": 19,
+        "type": "quiz",
+        "score": 64.20132093742032
+    },
+    {
+        "student_id": 19,
+        "type": "homework",
+        "score": 19.50958720409689
+    },
+    {
+        "student_id": 19,
+        "type": "homework",
+        "score": 39.19179146514524
+    },
+    {
+        "student_id": 20,
+        "type": "exam",
+        "score": 8.286466112754242
+    },
+    {
+        "student_id": 20,
+        "type": "quiz",
+        "score": 92.76554684090782
+    },
+    {
+        "student_id": 20,
+        "type": "homework",
+        "score": 1.686348824521233
+    },
+    {
+        "student_id": 20,
+        "type": "homework",
+        "score": 71.94442279826119
+    },
+    {
+        "student_id": 21,
+        "type": "exam",
+        "score": 75.29800347780863
+    },
+    {
+        "student_id": 21,
+        "type": "quiz",
+        "score": 63.80378988614874
+    },
+    {
+        "student_id": 21,
+        "type": "homework",
+        "score": 80.54060269630054
+    },
+    {
+        "student_id": 21,
+        "type": "homework",
+        "score": 92.99367317085135
+    },
+    {
+        "student_id": 22,
+        "type": "exam",
+        "score": 65.02518811936324
+    },
+    {
+        "student_id": 22,
+        "type": "quiz",
+        "score": 86.0800081592629
+    },
+    {
+        "student_id": 22,
+        "type": "homework",
+        "score": 72.09706855281985
+    },
+    {
+        "student_id": 22,
+        "type": "homework",
+        "score": 48.25372543033731
+    },
+    {
+        "student_id": 23,
+        "type": "exam",
+        "score": 8.710615075792338
+    },
+    {
+        "student_id": 23,
+        "type": "quiz",
+        "score": 20.31847063373616
+    },
+    {
+        "student_id": 23,
+        "type": "homework",
+        "score": 25.96316667391913
+    },
+    {
+        "student_id": 23,
+        "type": "homework",
+        "score": 96.85547653945963
+    },
+    {
+        "student_id": 24,
+        "type": "exam",
+        "score": 52.41616993329884
+    },
+    {
+        "student_id": 24,
+        "type": "quiz",
+        "score": 90.07869851792576
+    },
+    {
+        "student_id": 24,
+        "type": "homework",
+        "score": 56.75549540071619
+    },
+    {
+        "student_id": 24,
+        "type": "homework",
+        "score": 18.13026530287394
+    },
+    {
+        "student_id": 25,
+        "type": "exam",
+        "score": 93.3969528159085
+    },
+    {
+        "student_id": 25,
+        "type": "quiz",
+        "score": 81.43012799377132
+    },
+    {
+        "student_id": 25,
+        "type": "homework",
+        "score": 2.315021938781614
+    },
+    {
+        "student_id": 25,
+        "type": "homework",
+        "score": 66.18258079960636
+    },
+    {
+        "student_id": 26,
+        "type": "exam",
+        "score": 92.67702875321054
+    },
+    {
+        "student_id": 26,
+        "type": "quiz",
+        "score": 80.25463755988902
+    },
+    {
+        "student_id": 26,
+        "type": "homework",
+        "score": 38.78833775925688
+    },
+    {
+        "student_id": 26,
+        "type": "homework",
+        "score": 83.38003797195714
+    },
+    {
+        "student_id": 27,
+        "type": "exam",
+        "score": 56.40596524710979
+    },
+    {
+        "student_id": 27,
+        "type": "quiz",
+        "score": 21.00616240882495
+    },
+    {
+        "student_id": 27,
+        "type": "homework",
+        "score": 7.65403646299363
+    },
+    {
+        "student_id": 27,
+        "type": "homework",
+        "score": 9.088928055596712
+    },
+    {
+        "student_id": 28,
+        "type": "exam",
+        "score": 3.574134754746372
+    },
+    {
+        "student_id": 28,
+        "type": "quiz",
+        "score": 45.75423743521504
+    },
+    {
+        "student_id": 28,
+        "type": "homework",
+        "score": 34.77125472809514
+    },
+    {
+        "student_id": 28,
+        "type": "homework",
+        "score": 44.98289194890549
+    },
+    {
+        "student_id": 29,
+        "type": "exam",
+        "score": 62.66456199182311
+    },
+    {
+        "student_id": 29,
+        "type": "quiz",
+        "score": 97.33967728060847
+    },
+    {
+        "student_id": 29,
+        "type": "homework",
+        "score": 46.52962717597499
+    },
+    {
+        "student_id": 29,
+        "type": "homework",
+        "score": 63.25343473329258
+    },
+    {
+        "student_id": 30,
+        "type": "exam",
+        "score": 64.81974602373897
+    },
+    {
+        "student_id": 30,
+        "type": "quiz",
+        "score": 95.4719567087936
+    },
+    {
+        "student_id": 30,
+        "type": "homework",
+        "score": 13.17746704348945
+    },
+    {
+        "student_id": 30,
+        "type": "homework",
+        "score": 69.05012821082708
+    },
+    {
+        "student_id": 31,
+        "type": "exam",
+        "score": 26.10155965890888
+    },
+    {
+        "student_id": 31,
+        "type": "quiz",
+        "score": 69.59479576960122
+    },
+    {
+        "student_id": 31,
+        "type": "homework",
+        "score": 74.40752258898115
+    },
+    {
+        "student_id": 31,
+        "type": "homework",
+        "score": 53.47877189102262
+    },
+    {
+        "student_id": 32,
+        "type": "exam",
+        "score": 36.42213829631626
+    },
+    {
+        "student_id": 32,
+        "type": "quiz",
+        "score": 47.34807135767844
+    },
+    {
+        "student_id": 32,
+        "type": "homework",
+        "score": 27.27802040486803
+    },
+    {
+        "student_id": 32,
+        "type": "homework",
+        "score": 98.48535556781897
+    },
+    {
+        "student_id": 33,
+        "type": "exam",
+        "score": 97.72432789308246
+    },
+    {
+        "student_id": 33,
+        "type": "quiz",
+        "score": 22.45632142235159
+    },
+    {
+        "student_id": 33,
+        "type": "homework",
+        "score": 81.54666098834227
+    },
+    {
+        "student_id": 33,
+        "type": "homework",
+        "score": 19.95416618923318
+    },
+    {
+        "student_id": 34,
+        "type": "exam",
+        "score": 78.98904466549635
+    },
+    {
+        "student_id": 34,
+        "type": "quiz",
+        "score": 50.86875297989185
+    },
+    {
+        "student_id": 34,
+        "type": "homework",
+        "score": 12.49644971914143
+    },
+    {
+        "student_id": 34,
+        "type": "homework",
+        "score": 60.34834186154639
+    },
+    {
+        "student_id": 35,
+        "type": "exam",
+        "score": 80.64873235230371
+    },
+    {
+        "student_id": 35,
+        "type": "quiz",
+        "score": 48.9817734380008
+    },
+    {
+        "student_id": 35,
+        "type": "homework",
+        "score": 66.33054356315934
+    },
+    {
+        "student_id": 35,
+        "type": "homework",
+        "score": 67.22047882807846
+    },
+    {
+        "student_id": 36,
+        "type": "exam",
+        "score": 25.98397833599834
+    },
+    {
+        "student_id": 36,
+        "type": "quiz",
+        "score": 92.77010451829936
+    },
+    {
+        "student_id": 36,
+        "type": "homework",
+        "score": 98.21574096386053
+    },
+    {
+        "student_id": 36,
+        "type": "homework",
+        "score": 18.92197945943295
+    },
+    {
+        "student_id": 37,
+        "type": "exam",
+        "score": 22.08222783669675
+    },
+    {
+        "student_id": 37,
+        "type": "quiz",
+        "score": 41.65629501787084
+    },
+    {
+        "student_id": 37,
+        "type": "homework",
+        "score": 48.05072310171806
+    },
+    {
+        "student_id": 37,
+        "type": "homework",
+        "score": 83.83891622344414
+    },
+    {
+        "student_id": 38,
+        "type": "exam",
+        "score": 57.93606800132931
+    },
+    {
+        "student_id": 38,
+        "type": "quiz",
+        "score": 35.9449561912529
+    },
+    {
+        "student_id": 38,
+        "type": "homework",
+        "score": 84.0389012263469
+    },
+    {
+        "student_id": 38,
+        "type": "homework",
+        "score": 24.4825207615966
+    },
+    {
+        "student_id": 39,
+        "type": "exam",
+        "score": 32.25995330244616
+    },
+    {
+        "student_id": 39,
+        "type": "quiz",
+        "score": 41.65160528432862
+    },
+    {
+        "student_id": 39,
+        "type": "homework",
+        "score": 69.14354360853545
+    },
+    {
+        "student_id": 39,
+        "type": "homework",
+        "score": 82.76279500140843
+    },
+    {
+        "student_id": 40,
+        "type": "exam",
+        "score": 28.60259000457245
+    },
+    {
+        "student_id": 40,
+        "type": "quiz",
+        "score": 41.55286344943144
+    },
+    {
+        "student_id": 40,
+        "type": "homework",
+        "score": 30.50235237265905
+    },
+    {
+        "student_id": 40,
+        "type": "homework",
+        "score": 7.772799853410528
+    },
+    {
+        "student_id": 41,
+        "type": "exam",
+        "score": 80.33393381385598
+    },
+    {
+        "student_id": 41,
+        "type": "quiz",
+        "score": 96.28717012173799
+    },
+    {
+        "student_id": 41,
+        "type": "homework",
+        "score": 36.88082449109282
+    },
+    {
+        "student_id": 41,
+        "type": "homework",
+        "score": 12.41226519865078
+    },
+    {
+        "student_id": 42,
+        "type": "exam",
+        "score": 93.0847136081113
+    },
+    {
+        "student_id": 42,
+        "type": "quiz",
+        "score": 24.33321084638983
+    },
+    {
+        "student_id": 42,
+        "type": "homework",
+        "score": 14.24238154956671
+    },
+    {
+        "student_id": 42,
+        "type": "homework",
+        "score": 70.17857068884919
+    },
+    {
+        "student_id": 43,
+        "type": "exam",
+        "score": 17.21571353382751
+    },
+    {
+        "student_id": 43,
+        "type": "quiz",
+        "score": 74.69510515241892
+    },
+    {
+        "student_id": 43,
+        "type": "homework",
+        "score": 54.51238601735285
+    },
+    {
+        "student_id": 43,
+        "type": "homework",
+        "score": 88.45246329056006
+    },
+    {
+        "student_id": 44,
+        "type": "exam",
+        "score": 87.89675218010804
+    },
+    {
+        "student_id": 44,
+        "type": "quiz",
+        "score": 91.12150005391165
+    },
+    {
+        "student_id": 44,
+        "type": "homework",
+        "score": 97.61531087614864
+    },
+    {
+        "student_id": 44,
+        "type": "homework",
+        "score": 19.60813093279948
+    },
+    {
+        "student_id": 45,
+        "type": "exam",
+        "score": 75.37160689441282
+    },
+    {
+        "student_id": 45,
+        "type": "quiz",
+        "score": 91.68778639278182
+    },
+    {
+        "student_id": 45,
+        "type": "homework",
+        "score": 91.86268772608437
+    },
+    {
+        "student_id": 45,
+        "type": "homework",
+        "score": 96.27420619277679
+    },
+    {
+        "student_id": 46,
+        "type": "exam",
+        "score": 12.98822366844945
+    },
+    {
+        "student_id": 46,
+        "type": "quiz",
+        "score": 12.56860670038734
+    },
+    {
+        "student_id": 46,
+        "type": "homework",
+        "score": 62.76999828184855
+    },
+    {
+        "student_id": 46,
+        "type": "homework",
+        "score": 2.074902891732289
+    },
+    {
+        "student_id": 47,
+        "type": "exam",
+        "score": 95.5716490266884
+    },
+    {
+        "student_id": 47,
+        "type": "quiz",
+        "score": 89.82906340436651
+    },
+    {
+        "student_id": 47,
+        "type": "homework",
+        "score": 45.38042122471248
+    },
+    {
+        "student_id": 47,
+        "type": "homework",
+        "score": 14.17862172991569
+    },
+    {
+        "student_id": 48,
+        "type": "exam",
+        "score": 65.71867938396781
+    },
+    {
+        "student_id": 48,
+        "type": "quiz",
+        "score": 78.06327648829276
+    },
+    {
+        "student_id": 48,
+        "type": "homework",
+        "score": 60.17406945508335
+    },
+    {
+        "student_id": 48,
+        "type": "homework",
+        "score": 78.98316003242375
+    },
+    {
+        "student_id": 49,
+        "type": "exam",
+        "score": 30.5910287701377
+    },
+    {
+        "student_id": 49,
+        "type": "quiz",
+        "score": 29.70777183323973
+    },
+    {
+        "student_id": 49,
+        "type": "homework",
+        "score": 37.64059171340612
+    },
+    {
+        "student_id": 49,
+        "type": "homework",
+        "score": 7.264239611451739
+    },
+    {
+        "student_id": 50,
+        "type": "exam",
+        "score": 76.78657290704423
+    },
+    {
+        "student_id": 50,
+        "type": "quiz",
+        "score": 83.8578702765233
+    },
+    {
+        "student_id": 50,
+        "type": "homework",
+        "score": 21.59286389815228
+    },
+    {
+        "student_id": 50,
+        "type": "homework",
+        "score": 0.1170101023771353
+    },
+    {
+        "student_id": 51,
+        "type": "exam",
+        "score": 75.86543700819128
+    },
+    {
+        "student_id": 51,
+        "type": "quiz",
+        "score": 38.41558903200859
+    },
+    {
+        "student_id": 51,
+        "type": "homework",
+        "score": 6.300677444245151
+    },
+    {
+        "student_id": 51,
+        "type": "homework",
+        "score": 42.01745561089329
+    },
+    {
+        "student_id": 52,
+        "type": "exam",
+        "score": 98.11044728841873
+    },
+    {
+        "student_id": 52,
+        "type": "quiz",
+        "score": 4.397005715121283
+    },
+    {
+        "student_id": 52,
+        "type": "homework",
+        "score": 87.52181406947443
+    },
+    {
+        "student_id": 52,
+        "type": "homework",
+        "score": 22.33237035633402
+    },
+    {
+        "student_id": 53,
+        "type": "exam",
+        "score": 77.0986666152772
+    },
+    {
+        "student_id": 53,
+        "type": "quiz",
+        "score": 66.2268880667364
+    },
+    {
+        "student_id": 53,
+        "type": "homework",
+        "score": 32.50921681186403
+    },
+    {
+        "student_id": 53,
+        "type": "homework",
+        "score": 71.60614617588217
+    },
+    {
+        "student_id": 54,
+        "type": "exam",
+        "score": 92.66352609379979
+    },
+    {
+        "student_id": 54,
+        "type": "quiz",
+        "score": 96.84932565533684
+    },
+    {
+        "student_id": 54,
+        "type": "homework",
+        "score": 99.07179344198357
+    },
+    {
+        "student_id": 54,
+        "type": "homework",
+        "score": 23.95205186299023
+    },
+    {
+        "student_id": 55,
+        "type": "exam",
+        "score": 64.82405769457138
+    },
+    {
+        "student_id": 55,
+        "type": "quiz",
+        "score": 1.48207500947356
+    },
+    {
+        "student_id": 55,
+        "type": "homework",
+        "score": 58.76778345541144
+    },
+    {
+        "student_id": 55,
+        "type": "homework",
+        "score": 41.8764714671819
+    },
+    {
+        "student_id": 56,
+        "type": "exam",
+        "score": 76.26143783619797
+    },
+    {
+        "student_id": 56,
+        "type": "quiz",
+        "score": 88.84267124167884
+    },
+    {
+        "student_id": 56,
+        "type": "homework",
+        "score": 4.307644329111115
+    },
+    {
+        "student_id": 56,
+        "type": "homework",
+        "score": 64.86412798056057
+    },
+    {
+        "student_id": 57,
+        "type": "exam",
+        "score": 65.91867871499709
+    },
+    {
+        "student_id": 57,
+        "type": "quiz",
+        "score": 93.67460844690588
+    },
+    {
+        "student_id": 57,
+        "type": "homework",
+        "score": 46.24595821634441
+    },
+    {
+        "student_id": 57,
+        "type": "homework",
+        "score": 68.05251590420792
+    },
+    {
+        "student_id": 58,
+        "type": "exam",
+        "score": 61.30329805845934
+    },
+    {
+        "student_id": 58,
+        "type": "quiz",
+        "score": 99.40195411597328
+    },
+    {
+        "student_id": 58,
+        "type": "homework",
+        "score": 29.03957925949465
+    },
+    {
+        "student_id": 58,
+        "type": "homework",
+        "score": 42.32327929221364
+    },
+    {
+        "student_id": 59,
+        "type": "exam",
+        "score": 42.07059297970348
+    },
+    {
+        "student_id": 59,
+        "type": "quiz",
+        "score": 34.74019544278112
+    },
+    {
+        "student_id": 59,
+        "type": "homework",
+        "score": 21.54990368425945
+    },
+    {
+        "student_id": 59,
+        "type": "homework",
+        "score": 32.13938536034736
+    },
+    {
+        "student_id": 60,
+        "type": "exam",
+        "score": 52.46528852393995
+    },
+    {
+        "student_id": 60,
+        "type": "quiz",
+        "score": 43.09082073360234
+    },
+    {
+        "student_id": 60,
+        "type": "homework",
+        "score": 62.06845204303807
+    },
+    {
+        "student_id": 60,
+        "type": "homework",
+        "score": 92.45525730746618
+    },
+    {
+        "student_id": 61,
+        "type": "exam",
+        "score": 5.199780395438925
+    },
+    {
+        "student_id": 61,
+        "type": "quiz",
+        "score": 48.54983660945824
+    },
+    {
+        "student_id": 61,
+        "type": "homework",
+        "score": 62.94305195969942
+    },
+    {
+        "student_id": 61,
+        "type": "homework",
+        "score": 51.02918656830438
+    },
+    {
+        "student_id": 62,
+        "type": "exam",
+        "score": 44.34796360617769
+    },
+    {
+        "student_id": 62,
+        "type": "quiz",
+        "score": 67.35544060692918
+    },
+    {
+        "student_id": 62,
+        "type": "homework",
+        "score": 4.882918909058298
+    },
+    {
+        "student_id": 62,
+        "type": "homework",
+        "score": 87.46467331061946
+    },
+    {
+        "student_id": 63,
+        "type": "exam",
+        "score": 59.83135183162784
+    },
+    {
+        "student_id": 63,
+        "type": "quiz",
+        "score": 38.60568540293423
+    },
+    {
+        "student_id": 63,
+        "type": "homework",
+        "score": 76.02102085376754
+    },
+    {
+        "student_id": 63,
+        "type": "homework",
+        "score": 65.31038121884853
+    },
+    {
+        "student_id": 64,
+        "type": "exam",
+        "score": 71.07663195175958
+    },
+    {
+        "student_id": 64,
+        "type": "quiz",
+        "score": 73.07232954983076
+    },
+    {
+        "student_id": 64,
+        "type": "homework",
+        "score": 35.81115478919852
+    },
+    {
+        "student_id": 64,
+        "type": "homework",
+        "score": 78.5455230153125
+    },
+    {
+        "student_id": 65,
+        "type": "exam",
+        "score": 22.42262590648302
+    },
+    {
+        "student_id": 65,
+        "type": "quiz",
+        "score": 43.94015750031344
+    },
+    {
+        "student_id": 65,
+        "type": "homework",
+        "score": 8.839036695372593
+    },
+    {
+        "student_id": 65,
+        "type": "homework",
+        "score": 98.77986878762847
+    },
+    {
+        "student_id": 66,
+        "type": "exam",
+        "score": 57.85434924521312
+    },
+    {
+        "student_id": 66,
+        "type": "quiz",
+        "score": 68.2990478679404
+    },
+    {
+        "student_id": 66,
+        "type": "homework",
+        "score": 38.6244060282479
+    },
+    {
+        "student_id": 66,
+        "type": "homework",
+        "score": 34.49537015212813
+    },
+    {
+        "student_id": 67,
+        "type": "exam",
+        "score": 67.64289324359295
+    },
+    {
+        "student_id": 67,
+        "type": "quiz",
+        "score": 53.2179557286507
+    },
+    {
+        "student_id": 67,
+        "type": "homework",
+        "score": 56.49266915386797
+    },
+    {
+        "student_id": 67,
+        "type": "homework",
+        "score": 38.65873313791569
+    },
+    {
+        "student_id": 68,
+        "type": "exam",
+        "score": 24.46864934876588
+    },
+    {
+        "student_id": 68,
+        "type": "quiz",
+        "score": 5.227705694316276
+    },
+    {
+        "student_id": 68,
+        "type": "homework",
+        "score": 45.5946243828017
+    },
+    {
+        "student_id": 68,
+        "type": "homework",
+        "score": 26.03207214722028
+    },
+    {
+        "student_id": 69,
+        "type": "exam",
+        "score": 51.6065424765286
+    },
+    {
+        "student_id": 69,
+        "type": "quiz",
+        "score": 27.04160435644174
+    },
+    {
+        "student_id": 69,
+        "type": "homework",
+        "score": 5.151548016363893
+    },
+    {
+        "student_id": 69,
+        "type": "homework",
+        "score": 86.51053158689872
+    },
+    {
+        "student_id": 70,
+        "type": "exam",
+        "score": 90.75101320399959
+    },
+    {
+        "student_id": 70,
+        "type": "quiz",
+        "score": 50.34185736088064
+    },
+    {
+        "student_id": 70,
+        "type": "homework",
+        "score": 45.00460352973317
+    },
+    {
+        "student_id": 70,
+        "type": "homework",
+        "score": 5.814252650845164
+    },
+    {
+        "student_id": 71,
+        "type": "exam",
+        "score": 62.05911959308492
+    },
+    {
+        "student_id": 71,
+        "type": "quiz",
+        "score": 78.45958899233445
+    },
+    {
+        "student_id": 71,
+        "type": "homework",
+        "score": 65.54625488975057
+    },
+    {
+        "student_id": 71,
+        "type": "homework",
+        "score": 29.86333566475854
+    },
+    {
+        "student_id": 72,
+        "type": "exam",
+        "score": 33.98967526713632
+    },
+    {
+        "student_id": 72,
+        "type": "quiz",
+        "score": 37.77664846000471
+    },
+    {
+        "student_id": 72,
+        "type": "homework",
+        "score": 3.11162465791619
+    },
+    {
+        "student_id": 72,
+        "type": "homework",
+        "score": 34.16414628367617
+    },
+    {
+        "student_id": 73,
+        "type": "exam",
+        "score": 45.51671028452261
+    },
+    {
+        "student_id": 73,
+        "type": "quiz",
+        "score": 61.67804309939046
+    },
+    {
+        "student_id": 73,
+        "type": "homework",
+        "score": 45.90862750095297
+    },
+    {
+        "student_id": 73,
+        "type": "homework",
+        "score": 84.5341787367274
+    },
+    {
+        "student_id": 74,
+        "type": "exam",
+        "score": 48.29537334224352
+    },
+    {
+        "student_id": 74,
+        "type": "quiz",
+        "score": 55.8818184802936
+    },
+    {
+        "student_id": 74,
+        "type": "homework",
+        "score": 50.56407842668559
+    },
+    {
+        "student_id": 74,
+        "type": "homework",
+        "score": 0.494513588220491
+    },
+    {
+        "student_id": 75,
+        "type": "exam",
+        "score": 61.35824818386412
+    },
+    {
+        "student_id": 75,
+        "type": "quiz",
+        "score": 18.97562275197044
+    },
+    {
+        "student_id": 75,
+        "type": "homework",
+        "score": 14.36480380798963
+    },
+    {
+        "student_id": 75,
+        "type": "homework",
+        "score": 57.6573372743155
+    },
+    {
+        "student_id": 76,
+        "type": "exam",
+        "score": 55.92037038296196
+    },
+    {
+        "student_id": 76,
+        "type": "quiz",
+        "score": 16.98784139357567
+    },
+    {
+        "student_id": 76,
+        "type": "homework",
+        "score": 83.27107893725466
+    },
+    {
+        "student_id": 76,
+        "type": "homework",
+        "score": 90.43753033701553
+    },
+    {
+        "student_id": 77,
+        "type": "exam",
+        "score": 12.87109842547397
+    },
+    {
+        "student_id": 77,
+        "type": "quiz",
+        "score": 35.82085661467963
+    },
+    {
+        "student_id": 77,
+        "type": "homework",
+        "score": 0.7813866465038344
+    },
+    {
+        "student_id": 77,
+        "type": "homework",
+        "score": 81.41513670869462
+    },
+    {
+        "student_id": 78,
+        "type": "exam",
+        "score": 20.53059254562235
+    },
+    {
+        "student_id": 78,
+        "type": "quiz",
+        "score": 60.37543441603703
+    },
+    {
+        "student_id": 78,
+        "type": "homework",
+        "score": 27.72548024408059
+    },
+    {
+        "student_id": 78,
+        "type": "homework",
+        "score": 48.67810616391191
+    },
+    {
+        "student_id": 79,
+        "type": "exam",
+        "score": 5.249707164608686
+    },
+    {
+        "student_id": 79,
+        "type": "quiz",
+        "score": 54.19342028130006
+    },
+    {
+        "student_id": 79,
+        "type": "homework",
+        "score": 88.06517967189333
+    },
+    {
+        "student_id": 79,
+        "type": "homework",
+        "score": 67.47242553036014
+    },
+    {
+        "student_id": 80,
+        "type": "exam",
+        "score": 12.43080526265421
+    },
+    {
+        "student_id": 80,
+        "type": "quiz",
+        "score": 38.44803782755509
+    },
+    {
+        "student_id": 80,
+        "type": "homework",
+        "score": 20.77982527454243
+    },
+    {
+        "student_id": 80,
+        "type": "homework",
+        "score": 87.48902556029203
+    },
+    {
+        "student_id": 81,
+        "type": "exam",
+        "score": 80.54749065546406
+    },
+    {
+        "student_id": 81,
+        "type": "quiz",
+        "score": 94.1081749183104
+    },
+    {
+        "student_id": 81,
+        "type": "homework",
+        "score": 42.91554911836077
+    },
+    {
+        "student_id": 81,
+        "type": "homework",
+        "score": 32.1137289430265
+    },
+    {
+        "student_id": 82,
+        "type": "exam",
+        "score": 75.74280721971942
+    },
+    {
+        "student_id": 82,
+        "type": "quiz",
+        "score": 36.10728745591506
+    },
+    {
+        "student_id": 82,
+        "type": "homework",
+        "score": 53.8755229449808
+    },
+    {
+        "student_id": 82,
+        "type": "homework",
+        "score": 90.9703170286992
+    },
+    {
+        "student_id": 83,
+        "type": "exam",
+        "score": 79.5815891235159
+    },
+    {
+        "student_id": 83,
+        "type": "quiz",
+        "score": 33.34210506850216
+    },
+    {
+        "student_id": 83,
+        "type": "homework",
+        "score": 36.03011843498361
+    },
+    {
+        "student_id": 83,
+        "type": "homework",
+        "score": 42.0836445905911
+    },
+    {
+        "student_id": 84,
+        "type": "exam",
+        "score": 47.5372926722566
+    },
+    {
+        "student_id": 84,
+        "type": "quiz",
+        "score": 73.3319335662678
+    },
+    {
+        "student_id": 84,
+        "type": "homework",
+        "score": 31.72491447168277
+    },
+    {
+        "student_id": 84,
+        "type": "homework",
+        "score": 64.99098253332123
+    },
+    {
+        "student_id": 85,
+        "type": "exam",
+        "score": 80.79076184869429
+    },
+    {
+        "student_id": 85,
+        "type": "quiz",
+        "score": 95.36485224397819
+    },
+    {
+        "student_id": 85,
+        "type": "homework",
+        "score": 1.763772702003596
+    },
+    {
+        "student_id": 85,
+        "type": "homework",
+        "score": 31.13061670279137
+    },
+    {
+        "student_id": 86,
+        "type": "exam",
+        "score": 78.91805515303193
+    },
+    {
+        "student_id": 86,
+        "type": "quiz",
+        "score": 40.95961532478744
+    },
+    {
+        "student_id": 86,
+        "type": "homework",
+        "score": 95.44687484214909
+    },
+    {
+        "student_id": 86,
+        "type": "homework",
+        "score": 82.83433819981131
+    },
+    {
+        "student_id": 87,
+        "type": "exam",
+        "score": 66.0470217410135
+    },
+    {
+        "student_id": 87,
+        "type": "quiz",
+        "score": 95.47194800368757
+    },
+    {
+        "student_id": 87,
+        "type": "homework",
+        "score": 87.24025831665652
+    },
+    {
+        "student_id": 87,
+        "type": "homework",
+        "score": 37.2535470023459
+    },
+    {
+        "student_id": 88,
+        "type": "exam",
+        "score": 8.059808855152728
+    },
+    {
+        "student_id": 88,
+        "type": "quiz",
+        "score": 19.67174043097911
+    },
+    {
+        "student_id": 88,
+        "type": "homework",
+        "score": 60.15532732316444
+    },
+    {
+        "student_id": 88,
+        "type": "homework",
+        "score": 76.54602972646462
+    },
+    {
+        "student_id": 89,
+        "type": "exam",
+        "score": 63.4195274881764
+    },
+    {
+        "student_id": 89,
+        "type": "quiz",
+        "score": 95.12150721977588
+    },
+    {
+        "student_id": 89,
+        "type": "homework",
+        "score": 40.91754098417355
+    },
+    {
+        "student_id": 89,
+        "type": "homework",
+        "score": 10.65166631161538
+    },
+    {
+        "student_id": 90,
+        "type": "exam",
+        "score": 35.19922014378511
+    },
+    {
+        "student_id": 90,
+        "type": "quiz",
+        "score": 32.18175080552497
+    },
+    {
+        "student_id": 90,
+        "type": "homework",
+        "score": 17.00061810654808
+    },
+    {
+        "student_id": 90,
+        "type": "homework",
+        "score": 23.98571566914454
+    },
+    {
+        "student_id": 91,
+        "type": "exam",
+        "score": 16.8920035991457
+    },
+    {
+        "student_id": 91,
+        "type": "quiz",
+        "score": 14.47389649995393
+    },
+    {
+        "student_id": 91,
+        "type": "homework",
+        "score": 90.60588563819296
+    },
+    {
+        "student_id": 91,
+        "type": "homework",
+        "score": 42.37730252539226
+    },
+    {
+        "student_id": 92,
+        "type": "exam",
+        "score": 49.57863734168877
+    },
+    {
+        "student_id": 92,
+        "type": "quiz",
+        "score": 78.62639062876792
+    },
+    {
+        "student_id": 92,
+        "type": "homework",
+        "score": 49.66442388001298
+    },
+    {
+        "student_id": 92,
+        "type": "homework",
+        "score": 81.58135391199099
+    },
+    {
+        "student_id": 93,
+        "type": "exam",
+        "score": 33.03340447656077
+    },
+    {
+        "student_id": 93,
+        "type": "quiz",
+        "score": 53.13439639233661
+    },
+    {
+        "student_id": 93,
+        "type": "homework",
+        "score": 60.93928339429448
+    },
+    {
+        "student_id": 93,
+        "type": "homework",
+        "score": 63.69219389538912
+    },
+    {
+        "student_id": 94,
+        "type": "exam",
+        "score": 58.34328992366055
+    },
+    {
+        "student_id": 94,
+        "type": "quiz",
+        "score": 5.159794190608546
+    },
+    {
+        "student_id": 94,
+        "type": "homework",
+        "score": 15.30770878045271
+    },
+    {
+        "student_id": 94,
+        "type": "homework",
+        "score": 12.7869220636477
+    },
+    {
+        "student_id": 95,
+        "type": "exam",
+        "score": 54.62158037413102
+    },
+    {
+        "student_id": 95,
+        "type": "quiz",
+        "score": 69.09940052007717
+    },
+    {
+        "student_id": 95,
+        "type": "homework",
+        "score": 80.29953635795088
+    },
+    {
+        "student_id": 95,
+        "type": "homework",
+        "score": 66.12660033319179
+    },
+    {
+        "student_id": 96,
+        "type": "exam",
+        "score": 67.39154510277987
+    },
+    {
+        "student_id": 96,
+        "type": "quiz",
+        "score": 55.75129879735739
+    },
+    {
+        "student_id": 96,
+        "type": "homework",
+        "score": 39.97150199683163
+    },
+    {
+        "student_id": 96,
+        "type": "homework",
+        "score": 62.24334155606753
+    },
+    {
+        "student_id": 97,
+        "type": "exam",
+        "score": 11.22000707882451
+    },
+    {
+        "student_id": 97,
+        "type": "quiz",
+        "score": 65.90504076423
+    },
+    {
+        "student_id": 97,
+        "type": "homework",
+        "score": 27.19426763065664
+    },
+    {
+        "student_id": 97,
+        "type": "homework",
+        "score": 92.24163517959727
+    },
+    {
+        "student_id": 98,
+        "type": "exam",
+        "score": 64.17816294886937
+    },
+    {
+        "student_id": 98,
+        "type": "quiz",
+        "score": 57.18586440339543
+    },
+    {
+        "student_id": 98,
+        "type": "homework",
+        "score": 78.43138785717598
+    },
+    {
+        "student_id": 98,
+        "type": "homework",
+        "score": 25.64198034218437
+    },
+    {
+        "student_id": 99,
+        "type": "exam",
+        "score": 96.70764264778711
+    },
+    {
+        "student_id": 99,
+        "type": "quiz",
+        "score": 37.97969359323255
+    },
+    {
+        "student_id": 99,
+        "type": "homework",
+        "score": 66.08740886642325
+    },
+    {
+        "student_id": 99,
+        "type": "homework",
+        "score": 47.09466470343392
+    },
+    {
+        "student_id": 100,
+        "type": "exam",
+        "score": 52.47081453478176
+    },
+    {
+        "student_id": 100,
+        "type": "quiz",
+        "score": 87.26785471145698
+    },
+    {
+        "student_id": 100,
+        "type": "homework",
+        "score": 88.50425479139126
+    },
+    {
+        "student_id": 100,
+        "type": "homework",
+        "score": 65.29214756759019
+    },
+    {
+        "student_id": 101,
+        "type": "exam",
+        "score": 23.76206244677811
+    },
+    {
+        "student_id": 101,
+        "type": "quiz",
+        "score": 24.19922685511702
+    },
+    {
+        "student_id": 101,
+        "type": "homework",
+        "score": 22.68287094862411
+    },
+    {
+        "student_id": 101,
+        "type": "homework",
+        "score": 80.40798767141118
+    },
+    {
+        "student_id": 102,
+        "type": "exam",
+        "score": 89.05971931430759
+    },
+    {
+        "student_id": 102,
+        "type": "quiz",
+        "score": 76.22799720231035
+    },
+    {
+        "student_id": 102,
+        "type": "homework",
+        "score": 69.80916805022957
+    },
+    {
+        "student_id": 102,
+        "type": "homework",
+        "score": 21.3908092132099
+    },
+    {
+        "student_id": 103,
+        "type": "exam",
+        "score": 5.295470903828237
+    },
+    {
+        "student_id": 103,
+        "type": "quiz",
+        "score": 19.6453305042171
+    },
+    {
+        "student_id": 103,
+        "type": "homework",
+        "score": 48.66182470545701
+    },
+    {
+        "student_id": 103,
+        "type": "homework",
+        "score": 89.4404455567687
+    },
+    {
+        "student_id": 104,
+        "type": "exam",
+        "score": 72.42031903025907
+    },
+    {
+        "student_id": 104,
+        "type": "quiz",
+        "score": 91.33303557092337
+    },
+    {
+        "student_id": 104,
+        "type": "homework",
+        "score": 16.98051620124428
+    },
+    {
+        "student_id": 104,
+        "type": "homework",
+        "score": 68.9961347794407
+    },
+    {
+        "student_id": 105,
+        "type": "exam",
+        "score": 12.844262765548
+    },
+    {
+        "student_id": 105,
+        "type": "quiz",
+        "score": 95.56711380159473
+    },
+    {
+        "student_id": 105,
+        "type": "homework",
+        "score": 25.87241819758023
+    },
+    {
+        "student_id": 105,
+        "type": "homework",
+        "score": 92.56243500847677
+    },
+    {
+        "student_id": 106,
+        "type": "exam",
+        "score": 33.32903807162017
+    },
+    {
+        "student_id": 106,
+        "type": "quiz",
+        "score": 54.69936128438299
+    },
+    {
+        "student_id": 106,
+        "type": "homework",
+        "score": 37.33481050420091
+    },
+    {
+        "student_id": 106,
+        "type": "homework",
+        "score": 70.70375369937614
+    },
+    {
+        "student_id": 107,
+        "type": "exam",
+        "score": 61.91096336987442
+    },
+    {
+        "student_id": 107,
+        "type": "quiz",
+        "score": 77.545723865085
+    },
+    {
+        "student_id": 107,
+        "type": "homework",
+        "score": 59.9730682815793
+    },
+    {
+        "student_id": 107,
+        "type": "homework",
+        "score": 23.53343968718711
+    },
+    {
+        "student_id": 108,
+        "type": "exam",
+        "score": 77.43246779106391
+    },
+    {
+        "student_id": 108,
+        "type": "quiz",
+        "score": 44.30871914811002
+    },
+    {
+        "student_id": 108,
+        "type": "homework",
+        "score": 82.99039583317467
+    },
+    {
+        "student_id": 108,
+        "type": "homework",
+        "score": 75.02645238307164
+    },
+    {
+        "student_id": 109,
+        "type": "exam",
+        "score": 74.26032936907711
+    },
+    {
+        "student_id": 109,
+        "type": "quiz",
+        "score": 31.86238566513729
+    },
+    {
+        "student_id": 109,
+        "type": "homework",
+        "score": 13.52906195365355
+    },
+    {
+        "student_id": 109,
+        "type": "homework",
+        "score": 96.48368110758847
+    },
+    {
+        "student_id": 110,
+        "type": "exam",
+        "score": 29.7692006675129
+    },
+    {
+        "student_id": 110,
+        "type": "quiz",
+        "score": 28.22801120311749
+    },
+    {
+        "student_id": 110,
+        "type": "homework",
+        "score": 47.44031975955241
+    },
+    {
+        "student_id": 110,
+        "type": "homework",
+        "score": 10.47639919672798
+    },
+    {
+        "student_id": 111,
+        "type": "exam",
+        "score": 67.16752597563053
+    },
+    {
+        "student_id": 111,
+        "type": "quiz",
+        "score": 10.06885093254964
+    },
+    {
+        "student_id": 111,
+        "type": "homework",
+        "score": 28.56151454426366
+    },
+    {
+        "student_id": 111,
+        "type": "homework",
+        "score": 91.59793718010837
+    },
+    {
+        "student_id": 112,
+        "type": "exam",
+        "score": 31.24527171334954
+    },
+    {
+        "student_id": 112,
+        "type": "quiz",
+        "score": 82.03148159548485
+    },
+    {
+        "student_id": 112,
+        "type": "homework",
+        "score": 76.57829497588767
+    },
+    {
+        "student_id": 112,
+        "type": "homework",
+        "score": 25.35161324550459
+    },
+    {
+        "student_id": 113,
+        "type": "exam",
+        "score": 19.62020239790847
+    },
+    {
+        "student_id": 113,
+        "type": "quiz",
+        "score": 1.762015060175104
+    },
+    {
+        "student_id": 113,
+        "type": "homework",
+        "score": 88.55030973536869
+    },
+    {
+        "student_id": 113,
+        "type": "homework",
+        "score": 11.50292543582332
+    },
+    {
+        "student_id": 114,
+        "type": "exam",
+        "score": 37.06236595572712
+    },
+    {
+        "student_id": 114,
+        "type": "quiz",
+        "score": 39.42633667520256
+    },
+    {
+        "student_id": 114,
+        "type": "homework",
+        "score": 44.17805531900727
+    },
+    {
+        "student_id": 114,
+        "type": "homework",
+        "score": 23.22391502973516
+    },
+    {
+        "student_id": 115,
+        "type": "exam",
+        "score": 65.47329199925679
+    },
+    {
+        "student_id": 115,
+        "type": "quiz",
+        "score": 45.56056293691086
+    },
+    {
+        "student_id": 115,
+        "type": "homework",
+        "score": 69.88956183151369
+    },
+    {
+        "student_id": 115,
+        "type": "homework",
+        "score": 58.35779123375414
+    },
+    {
+        "student_id": 116,
+        "type": "exam",
+        "score": 67.09938431313856
+    },
+    {
+        "student_id": 116,
+        "type": "quiz",
+        "score": 26.08175934619382
+    },
+    {
+        "student_id": 116,
+        "type": "homework",
+        "score": 41.82509285846582
+    },
+    {
+        "student_id": 116,
+        "type": "homework",
+        "score": 44.13188682445829
+    },
+    {
+        "student_id": 117,
+        "type": "exam",
+        "score": 63.55696409871244
+    },
+    {
+        "student_id": 117,
+        "type": "quiz",
+        "score": 48.28570230938889
+    },
+    {
+        "student_id": 117,
+        "type": "homework",
+        "score": 32.79660834832242
+    },
+    {
+        "student_id": 117,
+        "type": "homework",
+        "score": 81.6477553397854
+    },
+    {
+        "student_id": 118,
+        "type": "exam",
+        "score": 58.24703631640666
+    },
+    {
+        "student_id": 118,
+        "type": "quiz",
+        "score": 26.66049139812506
+    },
+    {
+        "student_id": 118,
+        "type": "homework",
+        "score": 33.30258877660778
+    },
+    {
+        "student_id": 118,
+        "type": "homework",
+        "score": 41.475396888737
+    },
+    {
+        "student_id": 119,
+        "type": "exam",
+        "score": 94.73800681014144
+    },
+    {
+        "student_id": 119,
+        "type": "quiz",
+        "score": 62.34424943114745
+    },
+    {
+        "student_id": 119,
+        "type": "homework",
+        "score": 1.673764763535801
+    },
+    {
+        "student_id": 119,
+        "type": "homework",
+        "score": 46.68075174902876
+    },
+    {
+        "student_id": 120,
+        "type": "exam",
+        "score": 68.695274154639
+    },
+    {
+        "student_id": 120,
+        "type": "quiz",
+        "score": 35.05394867019275
+    },
+    {
+        "student_id": 120,
+        "type": "homework",
+        "score": 23.42969700177133
+    },
+    {
+        "student_id": 120,
+        "type": "homework",
+        "score": 4.614108198403266
+    },
+    {
+        "student_id": 121,
+        "type": "exam",
+        "score": 35.93388021551648
+    },
+    {
+        "student_id": 121,
+        "type": "quiz",
+        "score": 71.31536265524863
+    },
+    {
+        "student_id": 121,
+        "type": "homework",
+        "score": 84.92352613895294
+    },
+    {
+        "student_id": 121,
+        "type": "homework",
+        "score": 73.78726660306164
+    },
+    {
+        "student_id": 122,
+        "type": "exam",
+        "score": 84.17466551666908
+    },
+    {
+        "student_id": 122,
+        "type": "quiz",
+        "score": 37.82020520015516
+    },
+    {
+        "student_id": 122,
+        "type": "homework",
+        "score": 91.35310223145402
+    },
+    {
+        "student_id": 122,
+        "type": "homework",
+        "score": 77.16872372997729
+    },
+    {
+        "student_id": 123,
+        "type": "exam",
+        "score": 61.08020951731022
+    },
+    {
+        "student_id": 123,
+        "type": "quiz",
+        "score": 33.74022734105688
+    },
+    {
+        "student_id": 123,
+        "type": "homework",
+        "score": 84.21676038280023
+    },
+    {
+        "student_id": 123,
+        "type": "homework",
+        "score": 98.22329103024794
+    },
+    {
+        "student_id": 124,
+        "type": "exam",
+        "score": 76.14987462033146
+    },
+    {
+        "student_id": 124,
+        "type": "quiz",
+        "score": 80.82536119372834
+    },
+    {
+        "student_id": 124,
+        "type": "homework",
+        "score": 38.29174282190537
+    },
+    {
+        "student_id": 124,
+        "type": "homework",
+        "score": 21.02579009480162
+    },
+    {
+        "student_id": 125,
+        "type": "exam",
+        "score": 19.05127933080681
+    },
+    {
+        "student_id": 125,
+        "type": "quiz",
+        "score": 35.11469729058425
+    },
+    {
+        "student_id": 125,
+        "type": "homework",
+        "score": 43.21383131270958
+    },
+    {
+        "student_id": 125,
+        "type": "homework",
+        "score": 0.7763007373478681
+    },
+    {
+        "student_id": 126,
+        "type": "exam",
+        "score": 61.96706117559757
+    },
+    {
+        "student_id": 126,
+        "type": "quiz",
+        "score": 69.08785448503316
+    },
+    {
+        "student_id": 126,
+        "type": "homework",
+        "score": 99.73500029266059
+    },
+    {
+        "student_id": 126,
+        "type": "homework",
+        "score": 76.04495609240355
+    },
+    {
+        "student_id": 127,
+        "type": "exam",
+        "score": 38.53397093576125
+    },
+    {
+        "student_id": 127,
+        "type": "quiz",
+        "score": 98.08542096056715
+    },
+    {
+        "student_id": 127,
+        "type": "homework",
+        "score": 85.73936155963663
+    },
+    {
+        "student_id": 127,
+        "type": "homework",
+        "score": 59.07470268173027
+    },
+    {
+        "student_id": 128,
+        "type": "exam",
+        "score": 16.95399103257378
+    },
+    {
+        "student_id": 128,
+        "type": "quiz",
+        "score": 49.82604703892981
+    },
+    {
+        "student_id": 128,
+        "type": "homework",
+        "score": 72.09324009410007
+    },
+    {
+        "student_id": 128,
+        "type": "homework",
+        "score": 65.47002803265133
+    },
+    {
+        "student_id": 129,
+        "type": "exam",
+        "score": 9.853974981426783
+    },
+    {
+        "student_id": 129,
+        "type": "quiz",
+        "score": 0.8487796628464661
+    },
+    {
+        "student_id": 129,
+        "type": "homework",
+        "score": 93.40942757360425
+    },
+    {
+        "student_id": 129,
+        "type": "homework",
+        "score": 69.59992404491521
+    },
+    {
+        "student_id": 130,
+        "type": "exam",
+        "score": 88.47324072914611
+    },
+    {
+        "student_id": 130,
+        "type": "quiz",
+        "score": 28.70859699209463
+    },
+    {
+        "student_id": 130,
+        "type": "homework",
+        "score": 3.802218341070041
+    },
+    {
+        "student_id": 130,
+        "type": "homework",
+        "score": 97.04276756954984
+    },
+    {
+        "student_id": 131,
+        "type": "exam",
+        "score": 93.75626671479587
+    },
+    {
+        "student_id": 131,
+        "type": "quiz",
+        "score": 53.7529797347006
+    },
+    {
+        "student_id": 131,
+        "type": "homework",
+        "score": 72.71252411048842
+    },
+    {
+        "student_id": 131,
+        "type": "homework",
+        "score": 90.40201299020269
+    },
+    {
+        "student_id": 132,
+        "type": "exam",
+        "score": 61.92910018035822
+    },
+    {
+        "student_id": 132,
+        "type": "quiz",
+        "score": 69.30832776328629
+    },
+    {
+        "student_id": 132,
+        "type": "homework",
+        "score": 0.88042244493165
+    },
+    {
+        "student_id": 132,
+        "type": "homework",
+        "score": 9.819896217846702
+    },
+    {
+        "student_id": 133,
+        "type": "exam",
+        "score": 7.13785815232546
+    },
+    {
+        "student_id": 133,
+        "type": "quiz",
+        "score": 84.1034856887042
+    },
+    {
+        "student_id": 133,
+        "type": "homework",
+        "score": 61.54338252349118
+    },
+    {
+        "student_id": 133,
+        "type": "homework",
+        "score": 54.51816037334587
+    },
+    {
+        "student_id": 134,
+        "type": "exam",
+        "score": 28.72659324137799
+    },
+    {
+        "student_id": 134,
+        "type": "quiz",
+        "score": 25.75919562673936
+    },
+    {
+        "student_id": 134,
+        "type": "homework",
+        "score": 96.93916906527839
+    },
+    {
+        "student_id": 134,
+        "type": "homework",
+        "score": 16.69325514344298
+    },
+    {
+        "student_id": 135,
+        "type": "exam",
+        "score": 35.7338546302107
+    },
+    {
+        "student_id": 135,
+        "type": "quiz",
+        "score": 79.1713912657025
+    },
+    {
+        "student_id": 135,
+        "type": "homework",
+        "score": 25.18967191656487
+    },
+    {
+        "student_id": 135,
+        "type": "homework",
+        "score": 4.094372629209508
+    },
+    {
+        "student_id": 136,
+        "type": "exam",
+        "score": 6.184670269123194
+    },
+    {
+        "student_id": 136,
+        "type": "quiz",
+        "score": 58.61617469957674
+    },
+    {
+        "student_id": 136,
+        "type": "homework",
+        "score": 37.64624392745861
+    },
+    {
+        "student_id": 136,
+        "type": "homework",
+        "score": 92.61296451047365
+    },
+    {
+        "student_id": 137,
+        "type": "exam",
+        "score": 23.75717112590209
+    },
+    {
+        "student_id": 137,
+        "type": "quiz",
+        "score": 37.40507633301511
+    },
+    {
+        "student_id": 137,
+        "type": "homework",
+        "score": 91.77220081291937
+    },
+    {
+        "student_id": 137,
+        "type": "homework",
+        "score": 95.21037257539368
+    },
+    {
+        "student_id": 138,
+        "type": "exam",
+        "score": 59.40172270338407
+    },
+    {
+        "student_id": 138,
+        "type": "quiz",
+        "score": 83.91831489815546
+    },
+    {
+        "student_id": 138,
+        "type": "homework",
+        "score": 29.64266999868014
+    },
+    {
+        "student_id": 138,
+        "type": "homework",
+        "score": 58.51400930332645
+    },
+    {
+        "student_id": 139,
+        "type": "exam",
+        "score": 90.49031467167573
+    },
+    {
+        "student_id": 139,
+        "type": "quiz",
+        "score": 77.84457518810503
+    },
+    {
+        "student_id": 139,
+        "type": "homework",
+        "score": 77.13820732150495
+    },
+    {
+        "student_id": 139,
+        "type": "homework",
+        "score": 23.40758135638489
+    },
+    {
+        "student_id": 140,
+        "type": "exam",
+        "score": 75.0747972797953
+    },
+    {
+        "student_id": 140,
+        "type": "quiz",
+        "score": 5.455034703164785
+    },
+    {
+        "student_id": 140,
+        "type": "homework",
+        "score": 3.912081736997075
+    },
+    {
+        "student_id": 140,
+        "type": "homework",
+        "score": 10.94570549604103
+    },
+    {
+        "student_id": 141,
+        "type": "exam",
+        "score": 23.83154328530034
+    },
+    {
+        "student_id": 141,
+        "type": "quiz",
+        "score": 57.73977608997692
+    },
+    {
+        "student_id": 141,
+        "type": "homework",
+        "score": 49.20747628609227
+    },
+    {
+        "student_id": 141,
+        "type": "homework",
+        "score": 19.91993491401704
+    },
+    {
+        "student_id": 142,
+        "type": "exam",
+        "score": 37.27153310354105
+    },
+    {
+        "student_id": 142,
+        "type": "quiz",
+        "score": 80.23542447100071
+    },
+    {
+        "student_id": 142,
+        "type": "homework",
+        "score": 43.60412176855025
+    },
+    {
+        "student_id": 142,
+        "type": "homework",
+        "score": 47.40415460250708
+    },
+    {
+        "student_id": 143,
+        "type": "exam",
+        "score": 0.7929851945131294
+    },
+    {
+        "student_id": 143,
+        "type": "quiz",
+        "score": 48.37098946933322
+    },
+    {
+        "student_id": 143,
+        "type": "homework",
+        "score": 81.77196961542204
+    },
+    {
+        "student_id": 143,
+        "type": "homework",
+        "score": 68.60848642338433
+    },
+    {
+        "student_id": 144,
+        "type": "exam",
+        "score": 55.15544370727267
+    },
+    {
+        "student_id": 144,
+        "type": "quiz",
+        "score": 67.16092909515632
+    },
+    {
+        "student_id": 144,
+        "type": "homework",
+        "score": 26.30996382029941
+    },
+    {
+        "student_id": 144,
+        "type": "homework",
+        "score": 37.36839068732824
+    },
+    {
+        "student_id": 145,
+        "type": "exam",
+        "score": 84.95291702163877
+    },
+    {
+        "student_id": 145,
+        "type": "quiz",
+        "score": 19.073205805428
+    },
+    {
+        "student_id": 145,
+        "type": "homework",
+        "score": 47.74815246573315
+    },
+    {
+        "student_id": 145,
+        "type": "homework",
+        "score": 93.59848413707907
+    },
+    {
+        "student_id": 146,
+        "type": "exam",
+        "score": 92.66434665285378
+    },
+    {
+        "student_id": 146,
+        "type": "quiz",
+        "score": 8.900668684858537
+    },
+    {
+        "student_id": 146,
+        "type": "homework",
+        "score": 30.7915838996431
+    },
+    {
+        "student_id": 146,
+        "type": "homework",
+        "score": 89.03865149013545
+    },
+    {
+        "student_id": 147,
+        "type": "exam",
+        "score": 50.86017660560329
+    },
+    {
+        "student_id": 147,
+        "type": "quiz",
+        "score": 79.46325415313336
+    },
+    {
+        "student_id": 147,
+        "type": "homework",
+        "score": 1.883018868875652
+    },
+    {
+        "student_id": 147,
+        "type": "homework",
+        "score": 67.61988650770962
+    },
+    {
+        "student_id": 148,
+        "type": "exam",
+        "score": 50.14164786911478
+    },
+    {
+        "student_id": 148,
+        "type": "quiz",
+        "score": 96.9703680716034
+    },
+    {
+        "student_id": 148,
+        "type": "homework",
+        "score": 58.16425445499424
+    },
+    {
+        "student_id": 148,
+        "type": "homework",
+        "score": 61.77915710408342
+    },
+    {
+        "student_id": 149,
+        "type": "exam",
+        "score": 85.39263494631119
+    },
+    {
+        "student_id": 149,
+        "type": "quiz",
+        "score": 29.87001405712074
+    },
+    {
+        "student_id": 149,
+        "type": "homework",
+        "score": 2.912612047125829
+    },
+    {
+        "student_id": 149,
+        "type": "homework",
+        "score": 91.0508295559015
+    },
+    {
+        "student_id": 150,
+        "type": "exam",
+        "score": 47.92108198747113
+    },
+    {
+        "student_id": 150,
+        "type": "quiz",
+        "score": 70.01421192534866
+    },
+    {
+        "student_id": 150,
+        "type": "homework",
+        "score": 17.5316215124379
+    },
+    {
+        "student_id": 150,
+        "type": "homework",
+        "score": 74.2626327881862
+    },
+    {
+        "student_id": 151,
+        "type": "exam",
+        "score": 16.06811571080228
+    },
+    {
+        "student_id": 151,
+        "type": "quiz",
+        "score": 69.96787978365872
+    },
+    {
+        "student_id": 151,
+        "type": "homework",
+        "score": 25.17391932827222
+    },
+    {
+        "student_id": 151,
+        "type": "homework",
+        "score": 91.66458665087482
+    },
+    {
+        "student_id": 152,
+        "type": "exam",
+        "score": 61.86422992751315
+    },
+    {
+        "student_id": 152,
+        "type": "quiz",
+        "score": 95.2897394742471
+    },
+    {
+        "student_id": 152,
+        "type": "homework",
+        "score": 26.07421937006604
+    },
+    {
+        "student_id": 152,
+        "type": "homework",
+        "score": 58.31891018039342
+    },
+    {
+        "student_id": 153,
+        "type": "exam",
+        "score": 16.30856770895137
+    },
+    {
+        "student_id": 153,
+        "type": "quiz",
+        "score": 15.61331072208038
+    },
+    {
+        "student_id": 153,
+        "type": "homework",
+        "score": 9.670367413564374
+    },
+    {
+        "student_id": 153,
+        "type": "homework",
+        "score": 95.07914675049433
+    },
+    {
+        "student_id": 154,
+        "type": "exam",
+        "score": 60.8517115275291
+    },
+    {
+        "student_id": 154,
+        "type": "quiz",
+        "score": 83.35599862004825
+    },
+    {
+        "student_id": 154,
+        "type": "homework",
+        "score": 73.59137591133117
+    },
+    {
+        "student_id": 154,
+        "type": "homework",
+        "score": 8.486271022305692
+    },
+    {
+        "student_id": 155,
+        "type": "exam",
+        "score": 37.65787553372708
+    },
+    {
+        "student_id": 155,
+        "type": "quiz",
+        "score": 73.88450595388107
+    },
+    {
+        "student_id": 155,
+        "type": "homework",
+        "score": 4.589523994894806
+    },
+    {
+        "student_id": 155,
+        "type": "homework",
+        "score": 15.91036552016624
+    },
+    {
+        "student_id": 156,
+        "type": "exam",
+        "score": 96.22686187212408
+    },
+    {
+        "student_id": 156,
+        "type": "quiz",
+        "score": 85.96473816692452
+    },
+    {
+        "student_id": 156,
+        "type": "homework",
+        "score": 1.49562713373449
+    },
+    {
+        "student_id": 156,
+        "type": "homework",
+        "score": 77.26576957893442
+    },
+    {
+        "student_id": 157,
+        "type": "exam",
+        "score": 18.95189648098701
+    },
+    {
+        "student_id": 157,
+        "type": "quiz",
+        "score": 26.32424396763998
+    },
+    {
+        "student_id": 157,
+        "type": "homework",
+        "score": 45.27466347539696
+    },
+    {
+        "student_id": 157,
+        "type": "homework",
+        "score": 19.62785114026477
+    },
+    {
+        "student_id": 158,
+        "type": "exam",
+        "score": 93.19296494559896
+    },
+    {
+        "student_id": 158,
+        "type": "quiz",
+        "score": 27.1550039872292
+    },
+    {
+        "student_id": 158,
+        "type": "homework",
+        "score": 46.26079200755071
+    },
+    {
+        "student_id": 158,
+        "type": "homework",
+        "score": 66.07916630779856
+    },
+    {
+        "student_id": 159,
+        "type": "exam",
+        "score": 22.44260502040994
+    },
+    {
+        "student_id": 159,
+        "type": "quiz",
+        "score": 70.38567219798597
+    },
+    {
+        "student_id": 159,
+        "type": "homework",
+        "score": 23.64914849676909
+    },
+    {
+        "student_id": 159,
+        "type": "homework",
+        "score": 5.114212886032965
+    },
+    {
+        "student_id": 160,
+        "type": "exam",
+        "score": 94.16339119517072
+    },
+    {
+        "student_id": 160,
+        "type": "quiz",
+        "score": 17.55019364550873
+    },
+    {
+        "student_id": 160,
+        "type": "homework",
+        "score": 97.32291566787204
+    },
+    {
+        "student_id": 160,
+        "type": "homework",
+        "score": 61.92939914869419
+    },
+    {
+        "student_id": 161,
+        "type": "exam",
+        "score": 46.87439351050656
+    },
+    {
+        "student_id": 161,
+        "type": "quiz",
+        "score": 69.08158506558533
+    },
+    {
+        "student_id": 161,
+        "type": "homework",
+        "score": 97.09394690323185
+    },
+    {
+        "student_id": 161,
+        "type": "homework",
+        "score": 57.92764044246069
+    },
+    {
+        "student_id": 162,
+        "type": "exam",
+        "score": 4.06507188276718
+    },
+    {
+        "student_id": 162,
+        "type": "quiz",
+        "score": 1.859005207649944
+    },
+    {
+        "student_id": 162,
+        "type": "homework",
+        "score": 19.43440951057572
+    },
+    {
+        "student_id": 162,
+        "type": "homework",
+        "score": 69.76477782151035
+    },
+    {
+        "student_id": 163,
+        "type": "exam",
+        "score": 67.51445811302555
+    },
+    {
+        "student_id": 163,
+        "type": "quiz",
+        "score": 58.83626143075053
+    },
+    {
+        "student_id": 163,
+        "type": "homework",
+        "score": 86.77841601739597
+    },
+    {
+        "student_id": 163,
+        "type": "homework",
+        "score": 24.2669623527782
+    },
+    {
+        "student_id": 164,
+        "type": "exam",
+        "score": 87.59468512168375
+    },
+    {
+        "student_id": 164,
+        "type": "quiz",
+        "score": 89.57911719953132
+    },
+    {
+        "student_id": 164,
+        "type": "homework",
+        "score": 89.47128462914472
+    },
+    {
+        "student_id": 164,
+        "type": "homework",
+        "score": 90.5457857801751
+    },
+    {
+        "student_id": 165,
+        "type": "exam",
+        "score": 53.13530369853521
+    },
+    {
+        "student_id": 165,
+        "type": "quiz",
+        "score": 65.54110645268801
+    },
+    {
+        "student_id": 165,
+        "type": "homework",
+        "score": 15.44416721846711
+    },
+    {
+        "student_id": 165,
+        "type": "homework",
+        "score": 55.6405671733816
+    },
+    {
+        "student_id": 166,
+        "type": "exam",
+        "score": 68.42859593432789
+    },
+    {
+        "student_id": 166,
+        "type": "quiz",
+        "score": 18.90401173228525
+    },
+    {
+        "student_id": 166,
+        "type": "homework",
+        "score": 97.69349125832879
+    },
+    {
+        "student_id": 166,
+        "type": "homework",
+        "score": 95.01519986306319
+    },
+    {
+        "student_id": 167,
+        "type": "exam",
+        "score": 9.951526176379645
+    },
+    {
+        "student_id": 167,
+        "type": "quiz",
+        "score": 78.81291991759257
+    },
+    {
+        "student_id": 167,
+        "type": "homework",
+        "score": 34.64171354462216
+    },
+    {
+        "student_id": 167,
+        "type": "homework",
+        "score": 74.23786485713464
+    },
+    {
+        "student_id": 168,
+        "type": "exam",
+        "score": 80.38541560762634
+    },
+    {
+        "student_id": 168,
+        "type": "quiz",
+        "score": 3.832853622378229
+    },
+    {
+        "student_id": 168,
+        "type": "homework",
+        "score": 63.45856613537988
+    },
+    {
+        "student_id": 168,
+        "type": "homework",
+        "score": 43.1715730884068
+    },
+    {
+        "student_id": 169,
+        "type": "exam",
+        "score": 2.508472416999485
+    },
+    {
+        "student_id": 169,
+        "type": "quiz",
+        "score": 34.45535951488776
+    },
+    {
+        "student_id": 169,
+        "type": "homework",
+        "score": 91.42082344649279
+    },
+    {
+        "student_id": 169,
+        "type": "homework",
+        "score": 9.004215962330886
+    },
+    {
+        "student_id": 170,
+        "type": "exam",
+        "score": 20.54185760387134
+    },
+    {
+        "student_id": 170,
+        "type": "quiz",
+        "score": 14.4837063933976
+    },
+    {
+        "student_id": 170,
+        "type": "homework",
+        "score": 15.38810274606508
+    },
+    {
+        "student_id": 170,
+        "type": "homework",
+        "score": 99.44545400088126
+    },
+    {
+        "student_id": 171,
+        "type": "exam",
+        "score": 1.525120974214433
+    },
+    {
+        "student_id": 171,
+        "type": "quiz",
+        "score": 55.12384418571412
+    },
+    {
+        "student_id": 171,
+        "type": "homework",
+        "score": 84.4736098811046
+    },
+    {
+        "student_id": 171,
+        "type": "homework",
+        "score": 52.4190269388022
+    },
+    {
+        "student_id": 172,
+        "type": "exam",
+        "score": 54.30156592674987
+    },
+    {
+        "student_id": 172,
+        "type": "quiz",
+        "score": 40.60994732380371
+    },
+    {
+        "student_id": 172,
+        "type": "homework",
+        "score": 85.98751160686062
+    },
+    {
+        "student_id": 172,
+        "type": "homework",
+        "score": 93.57883654285905
+    },
+    {
+        "student_id": 173,
+        "type": "exam",
+        "score": 8.689285944589942
+    },
+    {
+        "student_id": 173,
+        "type": "quiz",
+        "score": 99.1929699463809
+    },
+    {
+        "student_id": 173,
+        "type": "homework",
+        "score": 59.73084275930082
+    },
+    {
+        "student_id": 173,
+        "type": "homework",
+        "score": 87.9764445019902
+    },
+    {
+        "student_id": 174,
+        "type": "exam",
+        "score": 22.417627473003
+    },
+    {
+        "student_id": 174,
+        "type": "quiz",
+        "score": 88.3192102433357
+    },
+    {
+        "student_id": 174,
+        "type": "homework",
+        "score": 70.71899086211441
+    },
+    {
+        "student_id": 174,
+        "type": "homework",
+        "score": 77.20806173257618
+    },
+    {
+        "student_id": 175,
+        "type": "exam",
+        "score": 8.406509655311368
+    },
+    {
+        "student_id": 175,
+        "type": "quiz",
+        "score": 67.82796630086155
+    },
+    {
+        "student_id": 175,
+        "type": "homework",
+        "score": 95.41144525857365
+    },
+    {
+        "student_id": 175,
+        "type": "homework",
+        "score": 38.36994326083016
+    },
+    {
+        "student_id": 176,
+        "type": "exam",
+        "score": 99.96723280505422
+    },
+    {
+        "student_id": 176,
+        "type": "quiz",
+        "score": 59.99624561135239
+    },
+    {
+        "student_id": 176,
+        "type": "homework",
+        "score": 1.527526147068703
+    },
+    {
+        "student_id": 176,
+        "type": "homework",
+        "score": 26.14937319202873
+    },
+    {
+        "student_id": 177,
+        "type": "exam",
+        "score": 96.50174787571963
+    },
+    {
+        "student_id": 177,
+        "type": "quiz",
+        "score": 20.25825385620372
+    },
+    {
+        "student_id": 177,
+        "type": "homework",
+        "score": 26.52490354522733
+    },
+    {
+        "student_id": 177,
+        "type": "homework",
+        "score": 84.37966144520979
+    },
+    {
+        "student_id": 178,
+        "type": "exam",
+        "score": 57.28039343829766
+    },
+    {
+        "student_id": 178,
+        "type": "quiz",
+        "score": 67.42833665603295
+    },
+    {
+        "student_id": 178,
+        "type": "homework",
+        "score": 84.81986979785289
+    },
+    {
+        "student_id": 178,
+        "type": "homework",
+        "score": 38.38782166376939
+    },
+    {
+        "student_id": 179,
+        "type": "exam",
+        "score": 35.87418357369356
+    },
+    {
+        "student_id": 179,
+        "type": "quiz",
+        "score": 47.25492033746147
+    },
+    {
+        "student_id": 179,
+        "type": "homework",
+        "score": 58.82705109681184
+    },
+    {
+        "student_id": 179,
+        "type": "homework",
+        "score": 4.462315604823319
+    },
+    {
+        "student_id": 180,
+        "type": "exam",
+        "score": 72.82141551673207
+    },
+    {
+        "student_id": 180,
+        "type": "quiz",
+        "score": 28.13409337347751
+    },
+    {
+        "student_id": 180,
+        "type": "homework",
+        "score": 53.89694420810793
+    },
+    {
+        "student_id": 180,
+        "type": "homework",
+        "score": 77.76932703668268
+    },
+    {
+        "student_id": 181,
+        "type": "exam",
+        "score": 89.10554845143109
+    },
+    {
+        "student_id": 181,
+        "type": "quiz",
+        "score": 52.81080891537071
+    },
+    {
+        "student_id": 181,
+        "type": "homework",
+        "score": 22.22903018444182
+    },
+    {
+        "student_id": 181,
+        "type": "homework",
+        "score": 85.04550998591225
+    },
+    {
+        "student_id": 182,
+        "type": "exam",
+        "score": 48.0233004952362
+    },
+    {
+        "student_id": 182,
+        "type": "quiz",
+        "score": 94.89534797016725
+    },
+    {
+        "student_id": 182,
+        "type": "homework",
+        "score": 85.83915300700728
+    },
+    {
+        "student_id": 182,
+        "type": "homework",
+        "score": 13.39585988277757
+    },
+    {
+        "student_id": 183,
+        "type": "exam",
+        "score": 78.02079965581102
+    },
+    {
+        "student_id": 183,
+        "type": "quiz",
+        "score": 94.02409727022061
+    },
+    {
+        "student_id": 183,
+        "type": "homework",
+        "score": 13.6588948182553
+    },
+    {
+        "student_id": 183,
+        "type": "homework",
+        "score": 51.52400350097962
+    },
+    {
+        "student_id": 184,
+        "type": "exam",
+        "score": 74.07556531186303
+    },
+    {
+        "student_id": 184,
+        "type": "quiz",
+        "score": 68.49201093281094
+    },
+    {
+        "student_id": 184,
+        "type": "homework",
+        "score": 32.84490776765271
+    },
+    {
+        "student_id": 184,
+        "type": "homework",
+        "score": 4.723720898314165
+    },
+    {
+        "student_id": 185,
+        "type": "exam",
+        "score": 20.20292564657562
+    },
+    {
+        "student_id": 185,
+        "type": "quiz",
+        "score": 29.18488831958842
+    },
+    {
+        "student_id": 185,
+        "type": "homework",
+        "score": 79.37701223117921
+    },
+    {
+        "student_id": 185,
+        "type": "homework",
+        "score": 69.95958757531224
+    },
+    {
+        "student_id": 186,
+        "type": "exam",
+        "score": 0.6651311278067396
+    },
+    {
+        "student_id": 186,
+        "type": "quiz",
+        "score": 43.64035636709729
+    },
+    {
+        "student_id": 186,
+        "type": "homework",
+        "score": 18.02222793975579
+    },
+    {
+        "student_id": 186,
+        "type": "homework",
+        "score": 82.36478041352304
+    },
+    {
+        "student_id": 187,
+        "type": "exam",
+        "score": 92.46011468967426
+    },
+    {
+        "student_id": 187,
+        "type": "quiz",
+        "score": 24.06464944222258
+    },
+    {
+        "student_id": 187,
+        "type": "homework",
+        "score": 86.74400002759052
+    },
+    {
+        "student_id": 187,
+        "type": "homework",
+        "score": 69.48413603111369
+    },
+    {
+        "student_id": 188,
+        "type": "exam",
+        "score": 56.67014726964974
+    },
+    {
+        "student_id": 188,
+        "type": "quiz",
+        "score": 38.1341264028024
+    },
+    {
+        "student_id": 188,
+        "type": "homework",
+        "score": 45.63350862897865
+    },
+    {
+        "student_id": 188,
+        "type": "homework",
+        "score": 74.59104379442469
+    },
+    {
+        "student_id": 189,
+        "type": "exam",
+        "score": 71.2461033044598
+    },
+    {
+        "student_id": 189,
+        "type": "quiz",
+        "score": 66.40918788666343
+    },
+    {
+        "student_id": 189,
+        "type": "homework",
+        "score": 35.44229348716249
+    },
+    {
+        "student_id": 189,
+        "type": "homework",
+        "score": 35.40559231595929
+    },
+    {
+        "student_id": 190,
+        "type": "exam",
+        "score": 72.80738441829857
+    },
+    {
+        "student_id": 190,
+        "type": "quiz",
+        "score": 55.18893820793289
+    },
+    {
+        "student_id": 190,
+        "type": "homework",
+        "score": 75.79339140288262
+    },
+    {
+        "student_id": 190,
+        "type": "homework",
+        "score": 29.54253305099447
+    },
+    {
+        "student_id": 191,
+        "type": "exam",
+        "score": 0.03425228241156208
+    },
+    {
+        "student_id": 191,
+        "type": "quiz",
+        "score": 38.63454173123748
+    },
+    {
+        "student_id": 191,
+        "type": "homework",
+        "score": 58.15023810279373
+    },
+    {
+        "student_id": 191,
+        "type": "homework",
+        "score": 23.01730758279615
+    },
+    {
+        "student_id": 192,
+        "type": "exam",
+        "score": 56.23200569677124
+    },
+    {
+        "student_id": 192,
+        "type": "quiz",
+        "score": 28.98976189884818
+    },
+    {
+        "student_id": 192,
+        "type": "homework",
+        "score": 13.61971353656894
+    },
+    {
+        "student_id": 192,
+        "type": "homework",
+        "score": 83.13767030321337
+    },
+    {
+        "student_id": 193,
+        "type": "exam",
+        "score": 33.64386239643952
+    },
+    {
+        "student_id": 193,
+        "type": "quiz",
+        "score": 98.72611943637821
+    },
+    {
+        "student_id": 193,
+        "type": "homework",
+        "score": 60.66990168068962
+    },
+    {
+        "student_id": 193,
+        "type": "homework",
+        "score": 42.1101447509116
+    },
+    {
+        "student_id": 194,
+        "type": "exam",
+        "score": 67.09136149008972
+    },
+    {
+        "student_id": 194,
+        "type": "quiz",
+        "score": 3.44158334024518
+    },
+    {
+        "student_id": 194,
+        "type": "homework",
+        "score": 62.83783297617745
+    },
+    {
+        "student_id": 194,
+        "type": "homework",
+        "score": 22.68755859875096
+    },
+    {
+        "student_id": 195,
+        "type": "exam",
+        "score": 9.520403946230028
+    },
+    {
+        "student_id": 195,
+        "type": "quiz",
+        "score": 19.34052845067049
+    },
+    {
+        "student_id": 195,
+        "type": "homework",
+        "score": 51.50789745238138
+    },
+    {
+        "student_id": 195,
+        "type": "homework",
+        "score": 62.18815544574834
+    },
+    {
+        "student_id": 196,
+        "type": "exam",
+        "score": 47.03110553961148
+    },
+    {
+        "student_id": 196,
+        "type": "quiz",
+        "score": 94.1229977702069
+    },
+    {
+        "student_id": 196,
+        "type": "homework",
+        "score": 93.83753702352544
+    },
+    {
+        "student_id": 196,
+        "type": "homework",
+        "score": 96.21255150192908
+    },
+    {
+        "student_id": 197,
+        "type": "exam",
+        "score": 95.96860886271084
+    },
+    {
+        "student_id": 197,
+        "type": "quiz",
+        "score": 35.11140938820992
+    },
+    {
+        "student_id": 197,
+        "type": "homework",
+        "score": 10.90872422518918
+    },
+    {
+        "student_id": 197,
+        "type": "homework",
+        "score": 88.3871242475841
+    },
+    {
+        "student_id": 198,
+        "type": "exam",
+        "score": 49.65504121659061
+    },
+    {
+        "student_id": 198,
+        "type": "quiz",
+        "score": 83.44326100636312
+    },
+    {
+        "student_id": 198,
+        "type": "homework",
+        "score": 76.18366499496366
+    },
+    {
+        "student_id": 198,
+        "type": "homework",
+        "score": 17.46279901047208
+    },
+    {
+        "student_id": 199,
+        "type": "exam",
+        "score": 67.33828604577803
+    },
+    {
+        "student_id": 199,
+        "type": "quiz",
+        "score": 48.15737364405101
+    },
+    {
+        "student_id": 199,
+        "type": "homework",
+        "score": 49.34223066136407
+    },
+    {
+        "student_id": 199,
+        "type": "homework",
+        "score": 58.09608083191365
+    }
+]
