@@ -18,6 +18,7 @@ import com.fasterxml.jackson.databind.type.TypeFactory;
 import com.mongodb.BasicDBObject;
 import com.mongodb.Mongo;
 import com.poc.db.nosql.documents.Grade;
+import com.poc.db.nosql.documents.Student;
 import com.poc.db.nosql.documents.User;
 
 @Configuration
@@ -60,6 +61,7 @@ public class MongoConfig extends AbstractMongoConfiguration {
 	    JsonMappingException, IOException {
 	obtainUsers(mongoTemplate);
 	obtainGrades(mongoTemplate);
+	obtainStudents(mongoTemplate);
     }
 
     private void obtainUsers(MongoTemplate mongoTemplate) throws IOException,
@@ -86,6 +88,19 @@ public class MongoConfig extends AbstractMongoConfiguration {
 	list.forEach((grade) -> mongoTemplate.save(
 		new Grade(grade.getStudent_id(), grade.getType(), grade
 			.getScore()), "grades"));
+    }
+
+    private void obtainStudents(MongoTemplate mongoTemplate)
+	    throws JsonParseException, JsonMappingException, IOException {
+	List<Student> list = objectMapper.readValue(
+		IOUtils.toString(getClass().getClassLoader()
+			.getResourceAsStream("db/students.json")),
+		TypeFactory.defaultInstance().constructCollectionType(
+			List.class, Student.class));
+
+	list.forEach((student) -> mongoTemplate.save(
+		new Student(student.getStudent_id(), student.getName(), student
+			.getScores()), "students"));
     }
 
 }
